@@ -3,7 +3,7 @@
 Code repository accompanying the manuscript:
 
 > **[Manuscript Title]**  
-> Axel Künstner et al.  
+> Leichtel, Künstner et al.  
 > [Journal], [Year]  
 > DOI: [DOI]
 
