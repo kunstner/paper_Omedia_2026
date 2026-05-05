@@ -2,7 +2,7 @@
 
 Code repository accompanying the manuscript:
 
-> **[Manuscript Title]**  
+> **Bacterial and fungal communities and network dynamics in Otitis media patients upon 1,8-Cineol treatment**  
 > Leichtel, Künstner et al.  
 > [Journal], [Year]  
 > DOI: [DOI]
